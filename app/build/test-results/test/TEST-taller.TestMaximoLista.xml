@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="taller.TestMaximoLista" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-09-16T19:16:00" hostname="DESKTOP-DKTTQG2" time="0.021">
+  <properties/>
+  <testcase name="MaximoLista = 5" classname="taller.TestMaximoLista" time="0.001"/>
+  <testcase name="MaximoLista = 10" classname="taller.TestMaximoLista" time="0.005"/>
+  <testcase name="MaximoLista = 15" classname="taller.TestMaximoLista" time="0.001"/>
+  <testcase name="Maximo Lista Vacia" classname="taller.TestMaximoLista" time="0.001"/>
+  <testcase name="MaximoLista RecursivaCola = 5" classname="taller.TestMaximoLista" time="0.0"/>
+  <testcase name="MaximoLista RecursivaCola = 10" classname="taller.TestMaximoLista" time="0.0"/>
+  <testcase name="MaximoLista RecursivaCola = 12" classname="taller.TestMaximoLista" time="0.0"/>
+  <testcase name="Maximo Lista Vacia RecursivaCola" classname="taller.TestMaximoLista" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
